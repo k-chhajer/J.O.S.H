@@ -1,1 +1,1 @@
-# J.A.R.V.I.S-Jetson-Assisted-Robotic-Vision-Intelligence-System-
+# J.O.S.H_Jetson_Optimized_STM32_Humanoid
