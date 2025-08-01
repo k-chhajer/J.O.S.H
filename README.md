@@ -1,1 +1,1 @@
-# J.O.S.H_Jetson_Optimized_STM32_Humanoid
+# J.O.S.H- Jetson Optimized STM32 Humanoid
